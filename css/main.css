@@ -103,6 +103,7 @@
   text-align: center;
   font-size: 15px;
   background: #e4c1ae;
+  cursor:pointer;
 }
 
 @media (min-width: 767px) {
