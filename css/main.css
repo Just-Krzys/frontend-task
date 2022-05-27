@@ -58,7 +58,7 @@
   display: flex;
   position: relative;
   margin-left: 5px;
-  background-image: url("/images/sean-o-KMn4VEeEPR8-unsplash_1_s6zmfh_c_scale,w_480.jpg");
+  background-image: url("/images/480.jpg");
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -129,7 +129,7 @@
     height: 100vh;
   }
   .section-container .picture {
-    background-image: url("/images/sean-o-KMn4VEeEPR8-unsplash_1_s6zmfh_c_scale,w_784.jpg");
+    background-image: url("/images/784.jpg");
     width: 280px;
     height: 330px;
     top: 0px;
@@ -155,7 +155,7 @@
     height: 100vh;
   }
   .section-container .picture {
-    background-image: url(/images/sean-o-KMn4VEeEPR8-unsplash_1_s6zmfh_c_scale\,w_1234.jpg);
+    background-image: url(/images/1234.jpg);
     width: 505px;
     height: 330px;
   }
